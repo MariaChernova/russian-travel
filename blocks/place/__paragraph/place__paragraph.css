@@ -2,4 +2,9 @@
   font-size: 1.1rem;
   font-weight: normal;
   line-height: 1.5;
+  margin: 0;
+}
+
+.place__paragraph:first-of-type {
+  margin-bottom: 26px;
 }
