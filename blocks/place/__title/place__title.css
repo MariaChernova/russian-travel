@@ -4,4 +4,6 @@
   font-weight: bold;
   line-height: 1;
   margin: 0 0 48px 0;
+  min-width: 440px;
+  max-width: 460px;
 }

@@ -1,5 +1,9 @@
 .cover__text {
-  margin: auto;
-  margin: 245px auto;
+  display: flex;
+  flex-direction: column;
+  z-index: 2;
+  margin: 245px 312px;
   align-self: center;
+  align-content: center;
+  justify-content: center;
 }

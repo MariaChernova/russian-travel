@@ -1,3 +1,5 @@
 .place__text {
   grid-area: text;
+  min-width: 288px;
+  max-width: 484px;
 }
