@@ -6,6 +6,7 @@
   "title website"
   "image text";
   margin-top: 80px;
+  gap: 48px 40px;
 }
 
 .place:first-of-type {
