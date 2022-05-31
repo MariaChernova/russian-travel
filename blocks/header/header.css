@@ -1,7 +1,19 @@
 .header {
   display: flex;
+  width: calc(100% - 96px);
   justify-content: space-between;
   margin: 28px auto 0;
-  max-width: 1184px;
-  color: #FFFFFF;
+}
+
+@media screen and (max-width: 1023px) {
+  .header {
+    width: calc(100% - 48px);
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .header {
+    width: calc(100% - 32px);
+    margin: 16px auto 0;
+  }
 }
