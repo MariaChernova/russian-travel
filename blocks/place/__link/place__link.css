@@ -6,3 +6,13 @@
   margin: 0;
   font-weight: normal;
 }
+
+.place__link:hover {
+  opacity: 80%;
+}
+
+@media screen and (max-width: 767px) {
+  .place__link {
+    margin: 0 16px;
+  }
+}
