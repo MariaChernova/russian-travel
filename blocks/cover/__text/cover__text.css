@@ -7,15 +7,6 @@
   grid-column: 1/2;
   grid-row: 1/2;
 }
-/* .cover__text {
-  display: flex;
-  flex-direction: column;
-  z-index: 2;
-  margin: 245px 312px;
-  align-self: center;
-  align-content: center;
-  justify-content: center;
-} */
 
 @media screen and (max-width: 1279px) {
   .cover__text {
