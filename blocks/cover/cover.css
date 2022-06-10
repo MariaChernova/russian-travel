@@ -1,7 +1,7 @@
 .cover {
-  display: grid;
-  grid-template-columns: 1fr;
-  grid-template-rows: 1fr;
+  display: flex;
+  flex-direction: column;
+  position: relative;
   width: calc(100% - 96px);
   margin: 92px auto 0;
 }

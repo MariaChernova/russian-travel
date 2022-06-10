@@ -1,9 +1,0 @@
-.cover__text {
-  z-index: 2;
-  margin: auto;
-  align-self: center;
-  align-content: center;
-  justify-content: center;
-  grid-column: 1/2;
-  grid-row: 1/2;
-}
