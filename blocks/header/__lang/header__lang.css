@@ -1,4 +1,4 @@
-.header__lang-link {
+.header__lang {
   margin-left: 18px;
   font-size: 1.5rem;
   font-weight: normal;
@@ -6,14 +6,15 @@
   text-decoration: none;
   color: #fff;
   align-self: center;
+  text-decoration: none;
 }
 
-.header__lang-link:first-of-type {
-  text-decoration: underline;
+.header__lang:hover {
+  opacity: 80%;
 }
 
 @media screen and (max-width: 767px) {
-  .header__lang-link {
+  .header__lang {
     font-size: 1.1rem;
   }
 }
